@@ -1,6 +1,6 @@
-SECURE PASSWORD GENERATOR
+SECURE PASSWORD GENERATOR:
 Table of Contents:
-  Overview:
+  >Overview
   >Features
   >Usage
   >Contributing
